@@ -20,6 +20,5 @@ public class ProductMain {
         System.out.print("\nMennyivel csökkentsük az árat? ");
         product.decreasePrice(scanner.nextInt());scanner.nextLine();
         System.out.println("A termék új adatai:  név: " + product.getName() + ", ára: " + product.getPrice());
-
     }
 }

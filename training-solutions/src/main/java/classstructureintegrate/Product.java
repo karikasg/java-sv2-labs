@@ -32,5 +32,6 @@ public class Product {
     public void decreasePrice(int amount) {
         price -= amount;
     }
+
 }
 
