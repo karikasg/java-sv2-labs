@@ -1,7 +1,5 @@
 package arrays;
 
-import arrayofarrays.ArrayOfArrays;
-
 import java.util.Arrays;
 
 public class ArraysMain {
