@@ -1,4 +1,4 @@
-package arrays;
+package looptypesmodify;
 
 public class Student {
     private String name;
