@@ -27,12 +27,16 @@ public class Registration {
         System.out.print("Kérem az email címet: ");
         email = scanner.nextLine();
 
-        Person person = new Person(registration.fullName(surname, givenName), LocalDate.of(year, month, day), email);
+        Person person = new Person(registration.fullName(surname, givenName), registration.date(year, month, day), email);
         System.out.println(person);
 
     }
 
     public String fullName (String surname, String givenName){
         return surname + " " + givenName;
+    }
+
+    public LocalDate date (int year, int month, int day){
+        return LocalDate.of(year, month, day);
     }
 }
