@@ -22,33 +22,33 @@ a típusokról, az operátorokról, valamint a szöveges típusról.
 
 ## Típusok és operátorok
 
-* [ ] [Literálok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709837-literalok)
+* [x] [Literálok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709837-literalok)
 * [ ] Literálok gyakorlati feladat
-* [ ] [Egyszerű típusok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709846-egyszeru-tipusok)
+* [x] [Egyszerű típusok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709846-egyszeru-tipusok)
 * [ ] Egyszerű típusok gyakorlati feladat
-* [ ] [Karakter videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/27993708-karakter)
+* [x] [Karakter videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/27993708-karakter)
 * [ ] Karakter gyakorlati feladat
-* [ ] [Felsorolásos típus videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709804-felsorolasos-tipus)
+* [x] [Felsorolásos típus videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709804-felsorolasos-tipus)
 * [ ] Felsorolásos típus gyakorlati feladat
-* [ ] [Operátorok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709858-operatorok)
+* [x] [Operátorok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709858-operatorok)
 * [ ] Operátorok gyakorlati feladat 
 * [ ] Oszthatóság vizsgálata gyakorlati feladat [(Szöveges anyag itt)](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/texts/28278683-oszthatosag-vizsgalata)
-* [ ] [Egész és lebegőpontos számok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709854-egesz-es-lebegopontos-szamok)
+* [x] [Egész és lebegőpontos számok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709854-egesz-es-lebegopontos-szamok)
 * [ ] Egész és lebegőpontos számok gyakorlati feladat
-* [ ] [Típuskonverzió videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709762-tipuskonverzio)
+* [x] [Típuskonverzió videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709762-tipuskonverzio)
 * [ ] Típuskonverzió gyakorlati feladat
-* [ ] [Konverziók videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/27993726-konverziok)
+* [x] [Konverziók videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/27993726-konverziok)
 * [ ] Konverziók gyakorlati feladat
 
 ## Részletesen a szöveges típusról
 
-* [ ] [String alapok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10710528-string-alapok)
+* [x] [String alapok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10710528-string-alapok)
 * [ ] String alapok gyakorlati feladat
-* [ ] [Konkatenáció videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10710386-konkatenacio)
+* [x] [Konkatenáció videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10710386-konkatenacio)
 * [ ] Konkatenáció gyakorlati feladat
-* [ ] [Főbb String metódusok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10710533-fobb-string-metodusok)
+* [x] [Főbb String metódusok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10710533-fobb-string-metodusok)
 * [ ] Főbb String metódusok gyakorlati feladat
-* [ ] [StringBuilder videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10710420-stringbuilder)
+* [x] [StringBuilder videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10710420-stringbuilder)
 * [ ] StringBuilder gyakorlati feladat
 * [ ] Szövegek elválasztása vesszővel gyakorlati feladat [(Szöveges anyag itt)](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/texts/28335421-szovegek-elvalasztasa-vesszovel)
 * [ ] [Scanner videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10710394-scanner)
