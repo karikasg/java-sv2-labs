@@ -25,6 +25,26 @@ public class CarShop {
         return sum;
     }
 
+    public int numberOfCarsCheaperThan(int price) {
+        int sum = 0;
+        for (Car car : carList) {
+            if (car.getPrice() <= price) {
+                sum++;
+            }
+        }
+        return sum;
+    }
+
+    public List<Car> carsWithBrand(String brand) {
+        List<Car> cars = new ArrayList<>();
+        for (Car car : carList) {
+            if (brand.equals(car.getBrand())) {
+                cars.add(car);
+            }
+        }
+        return cars;
+    }
+
     public List<Car> getCarsForSell() {
         return carList;
     }
