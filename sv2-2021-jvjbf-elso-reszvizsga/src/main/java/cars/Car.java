@@ -1,9 +1,6 @@
 package cars;
 
 public class Car {
-    //Minden autónak van egy márkája (szöveg), egy motormérete (lebegőpontos szám),
-    // egy színe (felsorolásos típus, a következő felsorolókkal: RED,BLACK,BLUE,GREY) és egy ára (egész szám).
-
 
     private String brand;
     private double motorSize;

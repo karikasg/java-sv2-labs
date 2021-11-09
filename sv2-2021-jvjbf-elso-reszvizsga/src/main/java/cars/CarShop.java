@@ -4,9 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class CarShop {
-    //autókereskedés neve (szöveg), egy ár, ami azt jelöli, hogy legfeljebb mekkora értékű autókkal kereskedik (egész szám), és autók listája.
-    // A kereskedés nevét és a felső limitet konstruktorban állítsd be, a lista kezdetben legyen üres.
-    // Minden attribútumhoz tartozzon getter metódus.
 
     private String carShopName;
     private int maxValue;
