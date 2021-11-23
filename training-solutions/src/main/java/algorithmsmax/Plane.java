@@ -18,7 +18,7 @@ public class Plane {
     public int getLongestOcean(String map){
         int i = 1;
         int maxOcean = 0;
-        int ocean = 0;
+        int ocean;
         while (i<map.length()) {
             if (map.charAt(i-1) == '1' && map.charAt(i) == '0') {
                 ocean = 0;
