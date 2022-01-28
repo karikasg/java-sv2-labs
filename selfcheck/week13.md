@@ -22,7 +22,7 @@ Ezekkel a leckékkel tovább mélyíthetitek a lambda kifejezésekkel és a stre
 Akinek a bevezető leckék után hiányérzete maradt vagy szeretne tovább tanulni a haladó tanfolyamon, az
 mindenképpen végezze el ezeket a leckéket is.
 
-* [ ] [Lambda kifejezések videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/16981999-lambda-kifejezesek)
+* [x] [Lambda kifejezések videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/16981999-lambda-kifejezesek)
 * [ ] Lambda kifejezések gyakorlati feladat
 * [ ] [Az Optional osztály használata videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/16982013-az-optional-osztaly-hasznalata)
 * [ ] Az Optional osztály használata gyakorlati feladat
