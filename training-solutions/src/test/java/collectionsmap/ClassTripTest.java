@@ -12,7 +12,7 @@ class ClassTripTest {
 
     @Test
     void testLoadInpayments() {
-        classTrip.loadInpayments(Paths.get("src/test/resources/inpayments.txt"));
+        classTrip.loadInpayments(Paths.get("training-solutions/src/test/resources/inpayments.txt"));
 
         assertEquals(3, classTrip.getInpayments().entrySet().size());
         assertEquals(true, classTrip.getInpayments().containsKey("Kiss József"));

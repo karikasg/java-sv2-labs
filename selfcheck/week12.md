@@ -23,18 +23,18 @@ Ezen a héten a kollekciókkal fogtok részletesebben megismerkedni.
 * [x] [Queue videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769618-queue)
 * [x] Queue gyakorlati feladat
 * [x] [Map videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769620-map)
-* [ ] Map gyakorlati feladat
+* [x] Map gyakorlati feladat
 * [x] [Autoboxing használata kollekcióknál videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769619-autoboxing-hasznalata-kollekcioknal)
-* [ ] Autoboxing használata kollekcióknál gyakorlati feladat
+* [x] Autoboxing használata kollekcióknál gyakorlati feladat
 
 ## Műveletek kollekciókkal
 
 * [x] [Bejárás videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769621-bejaras)
-* [ ] Bejárás gyakorlati feladat
+* [x] Bejárás gyakorlati feladat
 * [x] [A Comparator és Comparable interfészek videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769622-a-comparator-es-comparable-interfeszek)
-* [ ] A Comparator és Comparable interfészek gyakorlati feladat
-* [ ] [Keresés videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769623-kereses)
-* [ ] Keresés gyakorlati feladat
+* [x] A Comparator és Comparable interfészek gyakorlati feladat
+* [x] [Keresés videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769623-kereses)
+* [x] Keresés gyakorlati feladat
 * [ ] [Rendezés videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769624-rendezes)
 * [ ] Rendezés gyakorlati feladat
 * [ ] [Collections osztály (keresésen, rendezésen felüli metódusok) videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769625-collections-osztaly-keresesen-rendezesen-feluli-metodusok)
