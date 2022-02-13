@@ -6,7 +6,7 @@ Ezen a héten azt fogjátok megtanulni, hogyan lehet adatbázist kezelni Javabó
 
 ### Bevezetés és segédanyagok
 
-* [ ] Bevezetés: általános bevezető és link a megoldandó gyakorlati feladatokhoz
+* [x] Bevezetés: általános bevezető és link a megoldandó gyakorlati feladatokhoz
 * [ ] [Gyakorlati feladatok](https://github.com/Training360/java-jpa-public/blob/master/jdbc-lab.md)
 
 ## JDBC
