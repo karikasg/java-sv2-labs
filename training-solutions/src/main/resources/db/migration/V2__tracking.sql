@@ -1,0 +1,1 @@
+CREATE TABLE if not exists track_point (id BIGINT AUTO_INCREMENT PRIMARY KEY, activity_date DATE, lat DOUBLE, lon DOUBLE, activity_id BIGINT REFERENCES activities(id));
